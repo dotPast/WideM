@@ -1,0 +1,7 @@
+{
+  "name": "WideM",
+  "output": "out",
+  "pipeline": [
+    "pack.setup_pack"
+  ]
+}
