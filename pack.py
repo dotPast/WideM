@@ -14,6 +14,9 @@ def replace_title(ctx: Context):
     ctx.assets["minecraft:gui/title/minceraft"] = Texture(
         Image.open("./assets/title.png")
     )
+    ctx.assets["minecraft:gui/title/edition"] = Texture(
+        Image.open("./assets/edition.png")
+    )
 
 
 def replace_hud(ctx: Context):
