@@ -3,7 +3,7 @@
   "output": "out",
   "pipeline": [
     "pack.setup_pack",
-    "pack.replace_title",
-    "pack.replace_hud"
+    "misc.title",
+    "hud.hunger"
   ]
 }
