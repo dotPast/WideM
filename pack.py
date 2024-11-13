@@ -1,9 +1,12 @@
-from beet import Context, Texture
+from beet import Context, PngFile, Texture
 from PIL import Image
 
 
 def setup_pack(ctx: Context):
+    pack_icon = PngFile(source_path="./assets/icon.png")
+
     ctx.assets.description = 'The "M" Resource Pack. But Worse.'
+    ctx.assets.icon = PngFile(source_path="./assets/icon.png")
 
 
 def replace_stone(ctx: Context):
