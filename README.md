@@ -30,6 +30,6 @@ The resource pack is saved to `out/`.
 ## Credits
 
 - Yahiamice - The original resource pack
-- [Yann](https://commons.wikimedia.org/wiki/User:Yann) - [Classic baguette](https://commons.wikimedia.org/wiki/File:Baguette_de_pain,_WikiCheese_Lausanne.jpg) (CC BY-SA 4.0) (Cropped background, downscaled)
+- [Yann](https://commons.wikimedia.org/wiki/User:Yann) - [Classic baguette](https://commons.wikimedia.org/wiki/File:Baguette_de_pain,_WikiCheese_Lausanne.jpg) (CC BY-SA 4.0) (Cropped background, downscaled, hunger HUD)
 - [Innersloth](https://www.innersloth.com/) - Creeper sounds (Among Us)
 - Dead Memes. A lot of dead memes.
