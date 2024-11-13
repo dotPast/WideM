@@ -2,7 +2,6 @@
   "name": "WideM",
   "output": "out",
   "pipeline": [
-    "pack.setup_pack",
-    "pack.replace_stone"
+    "pack.setup_pack"
   ]
 }
