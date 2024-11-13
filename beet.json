@@ -4,6 +4,7 @@
   "pipeline": [
     "pack.setup_pack",
     "misc.title",
+    "misc.sun",
     "hud.hunger",
     "entities.sus_creeper"
   ]

@@ -12,3 +12,9 @@ def title(ctx: Context):
     ctx.assets["minecraft:gui/title/edition"] = Texture(
         Image.open("./assets/edition.png")
     )
+
+
+def sun(ctx: Context):
+    ctx.assets["minecraft:environment/sun"] = Texture(
+        Image.open("./assets/textures/misc/sun.png")
+    )
