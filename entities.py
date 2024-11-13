@@ -40,3 +40,9 @@ def sus_creeper(ctx: Context):
         open("./assets/sounds/creeper/hurt4.ogg", "rb").read(),
         event="entity.creeper.hurt",
     )
+
+
+def camel(ctx: Context):
+    ctx.assets["minecraft:entity/camel/camel"] = Texture(
+        Image.open("./assets/textures/entity/camel.png")
+    )

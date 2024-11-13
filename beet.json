@@ -6,6 +6,7 @@
     "misc.title",
     "misc.sun",
     "hud.hunger",
-    "entities.sus_creeper"
+    "entities.sus_creeper",
+    "entities.camel"
   ]
 }
