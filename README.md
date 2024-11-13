@@ -5,6 +5,8 @@ Remake of Yahiamice's "M" Resource Pack. But worse. (and with content for newer 
 [Check out the original resource pack! (its a youtube video, check the description for downloads)](https://www.youtube.com/watch?v=DULJPtZCcVA)  
 [And the Moroccan man who made it!](https://twitch.tv/yahiamice)
 
+## **The resource pack is in the early stages of development - Stuff will be broken or missing**
+
 ## Building
 
 The resource pack is created with [Beet](https://github.com/mcbeet/beet).
