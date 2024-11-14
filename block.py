@@ -22,3 +22,21 @@ def gravel(ctx: Context):
     ctx.assets["minecraft:block/suspicious_gravel_3"] = Texture(
         Image.open("./assets/textures/block/suspicious_gravel.png")
     )
+
+
+def furnace(ctx: Context):
+    ctx.assets["minecraft:block/furnace_front"] = Texture(
+        Image.open("./assets/textures/block/furnace/front.png")
+    )
+
+    ctx.assets["minecraft:block/furnace_front_on"] = Texture(
+        Image.open("./assets/textures/block/furnace/front_on.png")
+    )
+
+    ctx.assets["minecraft:block/furnace_side"] = Texture(
+        Image.open("./assets/textures/block/furnace/side.png")
+    )
+
+    ctx.assets["minecraft:block/furnace_top"] = Texture(
+        Image.open("./assets/textures/block/furnace/side.png")
+    )

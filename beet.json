@@ -8,6 +8,7 @@
     "hud.hunger",
     "entities.creeper",
     "entities.camel",
-    "block.gravel"
+    "block.gravel",
+    "block.furnace"
   ]
 }
