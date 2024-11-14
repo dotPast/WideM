@@ -9,6 +9,7 @@
     "entities.creeper",
     "entities.camel",
     "block.gravel",
-    "block.furnace"
+    "block.furnace",
+    "block.crafting_table"
   ]
 }
