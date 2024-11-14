@@ -79,3 +79,13 @@ def bookshelf(ctx: Context):
     ctx.assets["minecraft:block/bookshelf"] = Texture(
         Image.open("./assets/textures/block/bookshelf.png")
     )
+
+
+def ice(ctx: Context):
+    ctx.assets["minecraft:block/ice"] = Texture(
+        Image.open("./assets/textures/block/ice/normal.png")
+    )
+
+    ctx.assets["minecraft:block/packed_ice"] = Texture(
+        Image.open("./assets/textures/block/ice/packed.png")
+    )

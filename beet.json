@@ -11,6 +11,7 @@
     "block.gravel",
     "block.furnace",
     "block.crafting_table",
-    "block.bookshelf"
+    "block.bookshelf",
+    "block.ice"
   ]
 }
