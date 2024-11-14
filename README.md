@@ -1,4 +1,4 @@
-# WideM
+![WideM Logo](https://raw.githubusercontent.com/dotPast/WideM/refs/heads/master/assets/logo.png)
 
 Remake of Yahiamice's "M" Resource Pack. But worse. (and with content for newer versions!)
 
