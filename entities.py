@@ -2,7 +2,7 @@ from beet import Context, Sound, Texture
 from PIL import Image
 
 
-def sus_creeper(ctx: Context):
+def creeper(ctx: Context):
     ctx.assets["minecraft:entity/creeper/creeper"] = Texture(
         Image.open("./assets/textures/entity/creeper.png")
     )
