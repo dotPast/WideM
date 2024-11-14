@@ -5,6 +5,7 @@
     "pack.setup_pack",
     "misc.title",
     "misc.sun",
+    "misc.explosion",
     "hud.hunger",
     "entities.creeper",
     "entities.camel",

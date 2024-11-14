@@ -1,3 +1,5 @@
+import os
+
 from beet import Context, Texture
 from PIL import Image
 
@@ -18,3 +20,10 @@ def sun(ctx: Context):
     ctx.assets["minecraft:environment/sun"] = Texture(
         Image.open("./assets/textures/misc/sun.png")
     )
+
+
+def explosion(ctx: Context):
+    for sprite in os.listdir("./assets/textures/misc/explosion/"):
+        ctx.assets[f"minecraft:particle/explosion_{sprite.split(".")[0]}"] = Texture(
+            Image.open(f"./assets/textures/misc/explosion/{sprite}")
+        )
