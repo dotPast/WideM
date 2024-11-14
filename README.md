@@ -30,6 +30,7 @@ The resource pack is saved to `out/`.
 ## Credits
 
 - Yahiamice - The original resource pack
-- [Yann](https://commons.wikimedia.org/wiki/User:Yann) - [Classic baguette](https://commons.wikimedia.org/wiki/File:Baguette_de_pain,_WikiCheese_Lausanne.jpg) (CC BY-SA 4.0) (Cropped background, downscaled, hunger HUD)
+- [Yann](https://commons.wikimedia.org/wiki/User:Yann) - [Classic baguette](https://commons.wikimedia.org/wiki/File:Baguette_de_pain,_WikiCheese_Lausanne.jpg) (CC BY-SA 4.0) (Cropped background, Downscaled, Hunger HUD)
 - [Innersloth](https://www.innersloth.com/) - Creeper sounds (Among Us)
+- Skokloster Castle (Photo by [Jens Mohr](https://commons.wikimedia.org/wiki/Creator:Jens_Mohr)) - [Biblioteket. Sektion med öppen dörr. Interiör, detalj. Bokhylla. Schefferbiblioteket - Skoklosters slott - 86264](https://commons.wikimedia.org/wiki/File:Biblioteket._Sektion_med_%C3%B6ppen_d%C3%B6rr._Interi%C3%B6r,_detalj._Bokhylla._Schefferbiblioteket_-_Skoklosters_slott_-_86264.tif?page=1) (Public Domain) (Cropped, Bookshelf Texture)
 - Dead Memes. A lot of dead memes.

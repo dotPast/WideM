@@ -10,6 +10,7 @@
     "entities.camel",
     "block.gravel",
     "block.furnace",
-    "block.crafting_table"
+    "block.crafting_table",
+    "block.bookshelf"
   ]
 }

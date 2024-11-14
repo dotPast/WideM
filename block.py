@@ -73,3 +73,9 @@ def crafting_table(ctx: Context):
     ctx.assets["minecraft:block/crafting_table_bottom"] = Texture(
         Image.open("./assets/textures/block/crafting_table/bottom.png")
     )
+
+
+def bookshelf(ctx: Context):
+    ctx.assets["minecraft:block/bookshelf"] = Texture(
+        Image.open("./assets/textures/block/bookshelf.png")
+    )
